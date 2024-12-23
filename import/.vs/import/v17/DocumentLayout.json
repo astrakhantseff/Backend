@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mi\\source\\repos\\Backend\\import\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7101552-F99A-4B82-BAF4-1AF84B34D1C3}|import\\import.csproj|c:\\users\\mi\\source\\repos\\backend\\import\\import\\pages\\page5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7101552-F99A-4B82-BAF4-1AF84B34D1C3}|import\\import.csproj|solutionrelative:import\\pages\\page5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7101552-F99A-4B82-BAF4-1AF84B34D1C3}|import\\import.csproj|c:\\users\\mi\\source\\repos\\backend\\import\\import\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7101552-F99A-4B82-BAF4-1AF84B34D1C3}|import\\import.csproj|solutionrelative:import\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Page5.cs",
+              "DocumentMoniker": "C:\\Users\\Mi\\source\\repos\\Backend\\import\\import\\Pages\\Page5.cs",
+              "RelativeDocumentMoniker": "import\\Pages\\Page5.cs",
+              "ToolTip": "C:\\Users\\Mi\\source\\repos\\Backend\\import\\import\\Pages\\Page5.cs",
+              "RelativeToolTip": "import\\Pages\\Page5.cs",
+              "ViewState": "AgIAAGQBAAAAAAAAAAAowIIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T19:06:36.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mi\\source\\repos\\Backend\\import\\import\\Program.cs",
+              "RelativeDocumentMoniker": "import\\Program.cs",
+              "ToolTip": "C:\\Users\\Mi\\source\\repos\\Backend\\import\\import\\Program.cs",
+              "RelativeToolTip": "import\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T19:06:15.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
